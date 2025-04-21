@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\tests\\unit\\handlers\\movimentacaohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\tests\\unit\\handlers\\movimentacaohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\application\\handlers\\saldocontacorrentehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\saldocontacorrentehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\application\\handlers\\movimentacaohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\movimentacaohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\application\\queries\\saldocontacorrentequerry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\saldocontacorrentequerry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\application\\commands\\movimentacaocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\movimentacaocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\domain\\entities\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\domain\\entities\\saldocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\saldocontacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\tests\\unit\\controllers\\contacorrentecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\tests\\unit\\controllers\\contacorrentecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\saojpint\\onedrive - flex\\desktop\\teste\\questao5\\tests\\unit\\handlers\\saldocontacorrentehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\tests\\unit\\handlers\\saldocontacorrentehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContaCorrenteControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Controllers\\ContaCorrenteControllerTests.cs",
+              "RelativeDocumentMoniker": "Questao5\\Tests\\Unit\\Controllers\\ContaCorrenteControllerTests.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Controllers\\ContaCorrenteControllerTests.cs",
+              "RelativeToolTip": "Questao5\\Tests\\Unit\\Controllers\\ContaCorrenteControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:37:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaldoContaCorrenteHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Handlers\\SaldoContaCorrenteHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5\\Tests\\Unit\\Handlers\\SaldoContaCorrenteHandlerTests.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Handlers\\SaldoContaCorrenteHandlerTests.cs",
+              "RelativeToolTip": "Questao5\\Tests\\Unit\\Handlers\\SaldoContaCorrenteHandlerTests.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:31:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentacaoHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Handlers\\MovimentacaoHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5\\Tests\\Unit\\Handlers\\MovimentacaoHandlerTests.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Tests\\Unit\\Handlers\\MovimentacaoHandlerTests.cs",
+              "RelativeToolTip": "Questao5\\Tests\\Unit\\Handlers\\MovimentacaoHandlerTests.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:24:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "Questao5\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:37:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoContaCorrenteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Handlers\\SaldoContaCorrenteHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\SaldoContaCorrenteHandler.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Handlers\\SaldoContaCorrenteHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\SaldoContaCorrenteHandler.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:56:08.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentacaoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\MovimentacaoHandler.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:52:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaldoContaCorrenteQuerry.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Queries\\SaldoContaCorrenteQuerry.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\SaldoContaCorrenteQuerry.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Queries\\SaldoContaCorrenteQuerry.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\SaldoContaCorrenteQuerry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:46:23.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimentacaoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Commands\\MovimentacaoCommand.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\MovimentacaoCommand.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Application\\Commands\\MovimentacaoCommand.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\MovimentacaoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:42:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\ErrorResponse.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:35:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaldoContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\SaldoContaCorrente.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\SaldoContaCorrente.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\SaldoContaCorrente.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\SaldoContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:32:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Idempotencia.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:30:06.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:20:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:16:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:20:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Questao5\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\WeatherForecast.cs",
+              "RelativeToolTip": "Questao5\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:19:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:40:24.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

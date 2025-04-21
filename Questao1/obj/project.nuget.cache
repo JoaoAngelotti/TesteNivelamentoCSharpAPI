@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvgM9zlbS2MWie4f06sFbbO9XT14mPdy/G30bl0EiSbmMhD7dADMVn8LhlFzgkv776ID5Nun+L+dsNARYSuUuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saojpint\\OneDrive - Flex\\Desktop\\TESTE\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saojpint\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\saojpint\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\saojpint\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\saojpint\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
